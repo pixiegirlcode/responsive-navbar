@@ -23,6 +23,6 @@ Perfecto para mis mini proyectos web y para practicar **HTML y CSS** 🪐
 
 ## 📸 Capturas
 
-<img src="fotos-finales/1.jpeg" alt="Navbar cute ✨" width="200" height="auto">  
-<img src="fotos-finales/2.jpeg" alt="Navbar cute ✨" width="200" height="auto">  
-<img src="fotos-finales/3.jpeg" alt="Navbar cute ✨" width="200" height="auto">
+<img src="fotos-finales/1.jpeg" alt="Navbar cute ✨" width="250" height="auto">  
+<img src="fotos-finales/2.jpeg" alt="Navbar cute ✨" width="250" height="auto">  
+<img src="fotos-finales/3.jpeg" alt="Navbar cute ✨" width="250" height="auto">
