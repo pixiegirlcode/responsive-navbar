@@ -1,8 +1,8 @@
-# 🌸Responsive Navbar Project 🌸
+# 🌸Responsive Navbar  🌸
 
 
 Aquí creé un **navbar responsive**  con logo, menú, botón y buscador.  
-Perfecto para mis mini proyectos web y para practicar **HTML y CSS ** 🪐  
+Perfecto para mis mini proyectos web y para practicar **HTML y CSS** 🪐  
 
 ---
 
