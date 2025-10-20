@@ -7,17 +7,17 @@ Perfecto para mis mini proyectos web y para practicar **HTML y CSS** 🪐
 ---
 
 ## ✨ Features ✨
-- 🖤 Navbar sticky con **blur y gradientes**  
-- 🌈 Logo + nombre de marca estilo retro girlie  
-- 🍭 Menú responsive que se transforma en hamburguesa en pantallas pequeñas  
-- 💫 Formulario de búsqueda 
-- 🐰 Botón “Get Started” con hover efecto 
+- Navbar sticky con **blur y gradientes**  
+- Logo + nombre de marca  
+- Menú responsive que se transforma en hamburguesa en pantallas pequeñas  
+- Formulario de búsqueda 
+- Botón “Get Started” con hover efecto 
 
 ---
 
 ## 💖 Tech Stack
-- HTML ✨  
-- CSS 💖  
+- HTML   
+- CSS 
     
 ---
 
